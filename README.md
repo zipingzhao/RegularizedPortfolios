@@ -1,2 +1,2 @@
-# Large-Scale Regularized Portfolio Selection
+# Large-Scale Regularized Portfolio Design
 
